@@ -3,5 +3,10 @@ daldjald
 '
 da'ld
 a'
+<<<<<<< HEAD
 
 KjbaKhsalKn
+=======
+;lx;kzxz
+clclcl
+>>>>>>> origin/master

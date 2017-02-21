@@ -1,0 +1,17 @@
+http://localhost:4444/wd/hub/status
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar -app selendroid-test-app-0.17.0.apk
+
+selendroid-standalone-0.17.0-with-dependencies
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar -app "D:\Selendoid\app-stagingmplex-debug.apk"
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar -timeoutEmulatorStart 200000
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar -selendroidServerPort 9000
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar  -port 5566 -app app-stagingmplex-debug.apk
+
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar  -port 5566 -app Guru99App.apk
+
+java -jar selendroid-standalone-0.11.0-with-dependencies.jar  -port 5566 -app Guru99App.apk
